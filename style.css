@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 12vh;
+    width: 100vw;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+section{
+    display: flex;
+}
+
+.sec1{
+    width: 10%;
+    justify-content: space-around;
+}
+.sec2{
+    width: 50%;
+    justify-content: space-around;
+}
+.sec4{
+    width: 15%;
+    justify-content: space-around;
+}
+
+/* .sec4{
+
+} */
